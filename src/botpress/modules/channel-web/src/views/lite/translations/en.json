@@ -1,0 +1,19 @@
+{
+  "composer.placeholder": "Reply to {name}",
+  "composer.send": "Send",
+  "header.conversations": "Conversations",
+  "conversationList.untitledConversation": "Untitled Conversation",
+  "botInfo.backToConversation": "Back to Conversation",
+  "botInfo.startConversation": "Start Conversation",
+  "botInfo.privacyPolicy": "View Privacy Policy",
+  "botInfo.termsAndConditions": "View Terms of Service",
+  "botInfo.preferredLanguage": "Preferred Language",
+  "store.resetSessionMessage": "Reset the conversation",
+  "loginForm.userName": "Username",
+  "loginForm.password": "Password",
+  "loginForm.submit": "Submit",
+  "loginForm.formTitle": "Login form",
+  "loginForm.providedCredentials": "Provided credentials",
+  "messages.newMessage": "New message",
+  "messages.newMessages": "New messages"
+}
